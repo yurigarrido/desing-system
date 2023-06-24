@@ -1,0 +1,4 @@
+{
+  "extends": "@garridodev/eslint-config"
+
+}
