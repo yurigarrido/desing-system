@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@garridodev/react'
+import { Box, Text, TextArea, TextAreaProps } from '@garridodev-ui/react'
 
 export default {
   title: 'Form/Text Area',

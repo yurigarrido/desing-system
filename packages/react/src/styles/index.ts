@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@garridodev/tokens'
+} from '@garridodev-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

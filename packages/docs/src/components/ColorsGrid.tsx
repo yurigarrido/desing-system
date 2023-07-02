@@ -1,4 +1,4 @@
-import { colors } from '@garridodev/tokens'
+import { colors } from '@garridodev-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

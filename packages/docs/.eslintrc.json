@@ -1,4 +1,4 @@
 {
-  "extends": "@garridodev/eslint-config"
+  "extends": "@garridodev-ui/eslint-config"
 
 }

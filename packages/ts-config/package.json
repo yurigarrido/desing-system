@@ -1,6 +1,6 @@
 {
-  "name": "@garridodev/ts-config",
-  "version": "1.0.0",
+  "name": "@garridodev-ui/ts-config",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true
 }

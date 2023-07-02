@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Avatar, AvatarProps } from '@garridodev/react'
+import { Avatar, AvatarProps } from '@garridodev-ui/react'
 
 export default {
   title: 'Data display/Avatar',

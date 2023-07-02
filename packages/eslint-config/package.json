@@ -1,5 +1,5 @@
 {
-  "name": "@garridodev/eslint-config",
+  "name": "@garridodev-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

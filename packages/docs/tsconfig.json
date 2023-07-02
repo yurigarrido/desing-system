@@ -1,4 +1,4 @@
 {
-  "extends": "@garridodev/ts-config/react.json",
+  "extends": "@garridodev-ui/ts-config/react.json",
   "include": ["src"]
 }
