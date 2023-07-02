@@ -1,5 +1,11 @@
 # @garridodev-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- change compiler options
+
 ## 2.1.1
 
 ### Patch Changes

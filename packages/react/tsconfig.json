@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "jsx": "react"
+    // "jsx": "react",
+    "jsx": "react-jsx"
   },
   "extends": "@garridodev-ui/ts-config/react.json",
   "include": ["src"]
