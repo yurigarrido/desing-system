@@ -1,0 +1,2 @@
+import{A as r}from"./index.16896cd8.js";import"./index.4857793c.js";import"./iframe.1353dfd2.js";import"./index.2730c166.js";import"./jsx-runtime.1ed7c01a.js";const p={title:"Data display/Avatar",component:r,args:{src:"https://github.com/yurigarrido.png",alt:"yuri garrido"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.cc8c4a49.js.map
